@@ -2,10 +2,12 @@
   "id": 2048223841,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-09-01",
-    "date:inception_upper": "2026-09-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-01",
+    "date:cessation_lower": "2026-09-01",
+    "date:cessation_upper": "2026-09-01",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-09-01T04:31:53-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-09-01",
@@ -21,6 +23,7 @@
     "geom:latitude": 38.3996545,
     "geom:longitude": -99.5210065,
     "iata:airline": "WN",
+    "icao:aircraft": "SR22",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
@@ -34,6 +37,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N9004H",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,7 +95,7 @@
       1159285591,
       1947304621
     ],
-    "wof:lastmodified": 1788365204,
+    "wof:lastmodified": 1788365811,
     "wof:name": "WN4504 (BWI-SFO)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",
