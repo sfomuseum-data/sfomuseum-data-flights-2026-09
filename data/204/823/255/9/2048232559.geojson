@@ -2,10 +2,12 @@
   "id": 2048232559,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-09-02",
-    "date:inception_upper": "2026-09-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-02",
+    "date:cessation_lower": "2026-09-02",
+    "date:cessation_upper": "2026-09-02",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-09-02T10:37:00-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -34,6 +38,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +90,13 @@
     ],
     "wof:id": 2048232559,
     "wof:involves": [
+      1947304457,
+      1528104577,
       102527513,
       102532251,
-      1159285413,
-      1947304457
+      1159285413
     ],
-    "wof:lastmodified": 1788451680,
+    "wof:lastmodified": 1788452268,
     "wof:name": "UA3931 (PDX-SFO)",
     "wof:parent_id": 1947304457,
     "wof:placetype": "custom",
