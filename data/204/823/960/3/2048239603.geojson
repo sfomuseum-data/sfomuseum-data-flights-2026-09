@@ -1,0 +1,72 @@
+{
+  "id": 2048239603,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-09-03",
+    "date:inception_upper": "2026-09-03",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-09-03",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2026-09-03",
+    "flysfo:estimated_timestamp": 1788450660,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL420",
+    "flysfo:gate": "",
+    "flysfo:journey": "FAT-SFO",
+    "flysfo:scheduled_timestamp": 1788448380,
+    "flysfo:timestamp": 1788450660,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,36.768728,-119.721272,37.617990",
+    "geom:latitude": 37.193359,
+    "geom:longitude": -121.0461075,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102530717,
+    "sfomuseum:flight_id": "20260903-A-DAL-420",
+    "sfomuseum:flight_number": [
+      "DAL420",
+      "DL420"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1788537908,
+    "wof:geomhash": "b157be63e9453882f41d2e530854b6a2",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048239603,
+        "flight_id": 2048239603
+      }
+    ],
+    "wof:id": 2048239603,
+    "wof:involves": [
+      102527513,
+      102530717,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1788537908,
+    "wof:name": "DL420 (FAT-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-09",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    36.768728,
+    -119.721272,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-119.721272,36.768728],[-122.370943,37.61799]]}
+}
