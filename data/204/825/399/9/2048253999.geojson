@@ -2,10 +2,12 @@
   "id": 2048253999,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-09-04",
     "date:inception_upper": "2026-09-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-04",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-09-04T02:31:36-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "PD",
     "flysfo:date": "2026-09-04",
@@ -21,6 +23,7 @@
     "geom:latitude": 40.647171,
     "geom:longitude": -100.9996425,
     "iata:airline": "PD",
+    "icao:aircraft": "E295",
     "icao:airline": "POE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
@@ -34,6 +37,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1788624888,
@@ -51,7 +57,7 @@
       1880585295,
       -1
     ],
-    "wof:lastmodified": 1788624888,
+    "wof:lastmodified": 1788625134,
     "wof:name": "PD1672 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
