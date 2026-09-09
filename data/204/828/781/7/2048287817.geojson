@@ -2,10 +2,12 @@
   "id": 2048287817,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-09-08",
     "date:inception_upper": "2026-09-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-08",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-09-08T10:44:11-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SY",
     "flysfo:date": "2026-09-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.3917205,
     "geom:longitude": -118.4630515,
     "iata:airline": "SY",
+    "icao:aircraft": "B738",
     "icao:airline": "SCX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285227,
     "sfomuseum:arrival_id": 102532821,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N830SY",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -86,9 +94,10 @@
       102532821,
       102527513,
       1159285227,
-      1947304301
+      1947304301,
+      1159289871
     ],
-    "wof:lastmodified": 1788970443,
+    "wof:lastmodified": 1788970638,
     "wof:name": "SY8279 (SFO-IFP)",
     "wof:parent_id": 1947304301,
     "wof:placetype": "custom",
