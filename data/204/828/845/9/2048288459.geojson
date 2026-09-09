@@ -1,0 +1,72 @@
+{
+  "id": 2048288459,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-09-08",
+    "date:inception_upper": "2026-09-08",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-09-08",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-09-08",
+    "flysfo:estimated_timestamp": 1788901200,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA3870",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-XMN",
+    "flysfo:scheduled_timestamp": 1788901200,
+    "flysfo:timestamp": 1788901200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,24.540839,118.135698,37.617990",
+    "geom:latitude": 31.0794145,
+    "geom:longitude": -2.117622499999996,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102550865,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260908-D-UAL-3870",
+    "sfomuseum:flight_number": [
+      "UAL3870",
+      "UA3870"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1788970515,
+    "wof:geomhash": "325a27079583eb22ad4e829d7b21e0b3",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048288459,
+        "flight_id": 2048288459
+      }
+    ],
+    "wof:id": 2048288459,
+    "wof:involves": [
+      102550865,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1788970515,
+    "wof:name": "UA3870 (SFO-XMN)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-09",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    24.540839,
+    118.135698,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[118.135698,24.540839]]}
+}
