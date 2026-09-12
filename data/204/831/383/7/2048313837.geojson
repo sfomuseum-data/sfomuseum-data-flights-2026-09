@@ -2,10 +2,12 @@
   "id": 2048313837,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-09-11",
     "date:inception_upper": "2026-09-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-11",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-09-11T13:50:56-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -120.3621325,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "REH7",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618486,
@@ -39,6 +42,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N17229",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -94,7 +101,7 @@
       1947304525,
       1159283597
     ],
-    "wof:lastmodified": 1789229726,
+    "wof:lastmodified": 1789229898,
     "wof:name": "UA1367 (SFO-BUR)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",
