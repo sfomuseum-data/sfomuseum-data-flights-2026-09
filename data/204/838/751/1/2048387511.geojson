@@ -1,0 +1,72 @@
+{
+  "id": 2048387511,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-09-20",
+    "date:inception_upper": "2026-09-20",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-09-20",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-09-20",
+    "flysfo:estimated_timestamp": 1789967880,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA8289",
+    "flysfo:gate": "",
+    "flysfo:journey": "DEN-SFO",
+    "flysfo:scheduled_timestamp": 1789963080,
+    "flysfo:timestamp": 1789967880,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-104.672219,39.864939",
+    "geom:latitude": 38.7414645,
+    "geom:longitude": -113.521581,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531189,
+    "sfomuseum:flight_id": "20260920-A-UAL-8289",
+    "sfomuseum:flight_number": [
+      "UAL8289",
+      "UA8289"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1790006966,
+    "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048387511,
+        "flight_id": 2048387511
+      }
+    ],
+    "wof:id": 2048387511,
+    "wof:involves": [
+      102527513,
+      102531189,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1790006966,
+    "wof:name": "UA8289 (DEN-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-09",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -104.672219,
+    39.864939
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]]}
+}
