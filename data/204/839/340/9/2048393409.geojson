@@ -1,0 +1,78 @@
+{
+  "id": 2048393409,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-09-21",
+    "date:inception_upper": "2026-09-21",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-09-21",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "NH",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "7545",
+    "flysfo:date": "2026-09-21",
+    "flysfo:estimated_timestamp": 1790041860,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "NH7545",
+    "flysfo:gate": "",
+    "flysfo:journey": "EWR-SFO",
+    "flysfo:scheduled_timestamp": 1790051700,
+    "flysfo:timestamp": 1790051700,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-74.177526,40.691243",
+    "geom:latitude": 39.1546165,
+    "geom:longitude": -98.2742345,
+    "iata:airline": "NH",
+    "iata:base_airline": "",
+    "icao:airline": "ANA",
+    "icao:base_airline": "ANA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283875,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20260921-A-ANA-7545",
+    "sfomuseum:departure_id": 102530049,
+    "sfomuseum:flight_id": "20260921-A-ANA-7545",
+    "sfomuseum:flight_number": [
+      "ANA7545",
+      "NH7545"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1790093009,
+    "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048393409,
+        "flight_id": 2048393409
+      }
+    ],
+    "wof:id": 2048393409,
+    "wof:involves": [
+      102527513,
+      102530049,
+      1159283875,
+      -1,
+      1159283875
+    ],
+    "wof:lastmodified": 1790093009,
+    "wof:name": "NH7545 (EWR-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-09",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -74.177526,
+    40.691243
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]]}
+}
