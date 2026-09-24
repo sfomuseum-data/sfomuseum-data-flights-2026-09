@@ -2,10 +2,12 @@
   "id": 2048416907,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-24",
+    "date:cessation_upper": "2026-09-24",
     "date:inception_lower": "2026-09-23",
     "date:inception_upper": "2026-09-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-23",
+    "edtf:cessation": "2026-09-24T01:52:02Z",
+    "edtf:inception": "2026-09-23T23:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158044958"
+    },
     "wof:country": "US",
     "wof:created": 1790266579,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -94,7 +102,7 @@
       1947304515,
       1159283597
     ],
-    "wof:lastmodified": 1790266579,
+    "wof:lastmodified": 1790266826,
     "wof:name": "UA1430 (SFO-DEN)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",
