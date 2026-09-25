@@ -2,10 +2,12 @@
   "id": 2048422835,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-25",
+    "date:cessation_upper": "2026-09-25",
     "date:inception_lower": "2026-09-24",
     "date:inception_upper": "2026-09-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-24",
+    "edtf:cessation": "2026-09-25T05:22:15Z",
+    "edtf:inception": "2026-09-24T23:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-09-24",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "158132342"
+    },
     "wof:country": "US",
     "wof:created": 1790352674,
     "wof:geomhash": "262283982e32a09ea653beb1776c6fc7",
@@ -51,7 +59,7 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1790352674,
+    "wof:lastmodified": 1790353277,
     "wof:name": "AA722 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

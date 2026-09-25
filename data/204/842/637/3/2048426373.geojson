@@ -2,10 +2,12 @@
   "id": 2048426373,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-24",
+    "date:cessation_upper": "2026-09-24",
     "date:inception_lower": "2026-09-24",
     "date:inception_upper": "2026-09-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-24",
+    "edtf:cessation": "2026-09-24T02:41:07Z",
+    "edtf:inception": "2026-09-24T01:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-24",
@@ -48,6 +50,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158055644"
+    },
     "wof:country": "US",
     "wof:created": 1790353081,
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
@@ -88,7 +93,7 @@
       1159285413,
       1947304483
     ],
-    "wof:lastmodified": 1790353081,
+    "wof:lastmodified": 1790353304,
     "wof:name": "UA2478 (SFO-ONT)",
     "wof:parent_id": 1947304483,
     "wof:placetype": "custom",

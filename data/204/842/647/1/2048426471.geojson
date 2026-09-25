@@ -2,10 +2,12 @@
   "id": 2048426471,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-25",
+    "date:cessation_upper": "2026-09-25",
     "date:inception_lower": "2026-09-24",
     "date:inception_upper": "2026-09-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-24",
+    "edtf:cessation": "2026-09-25T01:26:42Z",
+    "edtf:inception": "2026-09-24T14:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 25.5509395,
     "geom:longitude": 11.213139500000004,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61844,
     "lbl:longitude": -122.392214,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102535777,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N27958",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158080882"
+    },
     "wof:country": "US",
     "wof:created": 1790353091,
     "wof:geomhash": "dda5c67e1aac39b5fe10f27fb362ac64",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048426471,
     "wof:involves": [
+      1159293215,
       102535777,
       102527513,
       1159285413,
       1947304153
     ],
-    "wof:lastmodified": 1790353091,
+    "wof:lastmodified": 1790353306,
     "wof:name": "UA3920 (SFO-GUM)",
     "wof:parent_id": 1947304153,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048420103,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-24",
+    "date:cessation_upper": "2026-09-24",
     "date:inception_lower": "2026-09-24",
     "date:inception_upper": "2026-09-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-24",
+    "edtf:cessation": "2026-09-24T23:00:07Z",
+    "edtf:inception": "2026-09-24T21:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158125619"
+    },
     "wof:country": "US",
     "wof:created": 1790352356,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -94,7 +102,7 @@
       1947304669,
       1159284613
     ],
-    "wof:lastmodified": 1790352356,
+    "wof:lastmodified": 1790353243,
     "wof:name": "DL1088 (SLC-SFO)",
     "wof:parent_id": 1947304669,
     "wof:placetype": "custom",

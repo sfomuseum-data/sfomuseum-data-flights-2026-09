@@ -2,10 +2,12 @@
   "id": 2048426463,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-24",
+    "date:cessation_upper": "2026-09-24",
     "date:inception_lower": "2026-09-24",
     "date:inception_upper": "2026-09-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-24",
+    "edtf:cessation": "2026-09-24T15:40:54Z",
+    "edtf:inception": "2026-09-24T15:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.1517615,
     "geom:longitude": -121.98042749999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530559,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N436UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "158163153"
+    },
     "wof:country": "US",
     "wof:created": 1790353091,
     "wof:geomhash": "5cb31017412a00ced54cc35c2a74371e",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048426463,
     "wof:involves": [
+      1159292085,
       102530559,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1790353091,
+    "wof:lastmodified": 1790353306,
     "wof:name": "UA3900 (SFO-SMF)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

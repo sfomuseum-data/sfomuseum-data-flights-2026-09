@@ -2,10 +2,12 @@
   "id": 2048426751,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-24",
+    "date:cessation_upper": "2026-09-24",
     "date:inception_lower": "2026-09-24",
     "date:inception_upper": "2026-09-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-24",
+    "edtf:cessation": "2026-09-24T19:53:39Z",
+    "edtf:inception": "2026-09-24T07:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-24",
@@ -48,6 +50,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158063285"
+    },
     "wof:country": "US",
     "wof:created": 1790353124,
     "wof:geomhash": "ec4a8fe4d0e09d37ae50bf109072b003",
@@ -88,7 +93,7 @@
       1159285413,
       1947304131
     ],
-    "wof:lastmodified": 1790353124,
+    "wof:lastmodified": 1790353310,
     "wof:name": "UA853 (SFO-TPE)",
     "wof:parent_id": 1947304131,
     "wof:placetype": "custom",

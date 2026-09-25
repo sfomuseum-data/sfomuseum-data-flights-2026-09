@@ -2,10 +2,12 @@
   "id": 2048426659,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-09-24",
-    "date:inception_upper": "2026-09-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-24",
+    "date:cessation_lower": "2026-09-25",
+    "date:cessation_upper": "2026-09-25",
+    "date:inception_lower": "2026-09-25",
+    "date:inception_upper": "2026-09-25",
+    "edtf:cessation": "2026-09-25T22:17:43Z",
+    "edtf:inception": "2026-09-25T07:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 11.236410499999998,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.618209,
     "lbl:longitude": -122.391665,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102557779,
     "sfomuseum:base_flight_id": "20260924-D-DLH-8920",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N22992",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158062741"
+    },
     "wof:country": "US",
     "wof:created": 1790353113,
     "wof:geomhash": "945559894ecf54761855aac48d7d95c2",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048426659,
     "wof:involves": [
+      1159293215,
       102557779,
       102527513,
       1159285413,
       1947304151,
       1159286015
     ],
-    "wof:lastmodified": 1790353113,
+    "wof:lastmodified": 1790353308,
     "wof:name": "UA60 (SFO-MEL)",
     "wof:parent_id": 1947304151,
     "wof:placetype": "custom",

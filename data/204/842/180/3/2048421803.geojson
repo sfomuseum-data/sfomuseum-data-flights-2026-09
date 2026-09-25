@@ -2,10 +2,12 @@
   "id": 2048421803,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-24",
+    "date:cessation_upper": "2026-09-24",
     "date:inception_lower": "2026-09-24",
     "date:inception_upper": "2026-09-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-24",
+    "edtf:cessation": "2026-09-24T23:44:56Z",
+    "edtf:inception": "2026-09-24T19:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-24",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158116267"
+    },
     "wof:country": "US",
     "wof:created": 1790352555,
     "wof:geomhash": "a7e835886f555fd347028edc152f9d8c",
@@ -88,7 +96,7 @@
       1159285413,
       1947304483
     ],
-    "wof:lastmodified": 1790352555,
+    "wof:lastmodified": 1790353260,
     "wof:name": "UA2421 (MSY-SFO)",
     "wof:parent_id": 1947304483,
     "wof:placetype": "custom",

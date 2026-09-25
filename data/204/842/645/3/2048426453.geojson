@@ -2,10 +2,12 @@
   "id": 2048426453,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-25",
+    "date:cessation_upper": "2026-09-25",
     "date:inception_lower": "2026-09-24",
     "date:inception_upper": "2026-09-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-24",
+    "edtf:cessation": "2026-09-25T03:51:32Z",
+    "edtf:inception": "2026-09-24T23:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158104741"
+    },
     "wof:country": "US",
     "wof:created": 1790353089,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -94,7 +102,7 @@
       1947304455,
       1159283697
     ],
-    "wof:lastmodified": 1790353089,
+    "wof:lastmodified": 1790353306,
     "wof:name": "UA336 (SFO-IAD)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

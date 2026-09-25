@@ -2,10 +2,12 @@
   "id": 2048426447,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-25",
+    "date:cessation_upper": "2026-09-25",
     "date:inception_lower": "2026-09-24",
     "date:inception_upper": "2026-09-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-24",
+    "edtf:cessation": "2026-09-25T02:20:53Z",
+    "edtf:inception": "2026-09-24T21:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158122299"
+    },
     "wof:country": "US",
     "wof:created": 1790353089,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -94,7 +102,7 @@
       1947304475,
       1159283597
     ],
-    "wof:lastmodified": 1790353089,
+    "wof:lastmodified": 1790353306,
     "wof:name": "UA300 (SFO-HNL)",
     "wof:parent_id": 1947304475,
     "wof:placetype": "custom",
