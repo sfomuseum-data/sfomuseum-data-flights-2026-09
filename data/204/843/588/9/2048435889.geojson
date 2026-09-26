@@ -1,0 +1,72 @@
+{
+  "id": 2048435889,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-09-25",
+    "date:inception_upper": "2026-09-25",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-09-25",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-09-25",
+    "flysfo:estimated_timestamp": 1790367960,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8193",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-JAC",
+    "flysfo:scheduled_timestamp": 1790367960,
+    "flysfo:timestamp": 1790367960,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-110.738540,43.606600",
+    "geom:latitude": 40.612295,
+    "geom:longitude": -116.5547415,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102534217,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260925-D-UAL-8193",
+    "sfomuseum:flight_number": [
+      "UAL8193",
+      "UA8193"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1790439500,
+    "wof:geomhash": "9f2aefec298b0356dc0b4065c5b61f73",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048435889,
+        "flight_id": 2048435889
+      }
+    ],
+    "wof:id": 2048435889,
+    "wof:involves": [
+      102534217,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1790439500,
+    "wof:name": "UA8193 (SFO-JAC)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-09",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -110.73854,
+    43.6066
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-110.73854,43.6066]]}
+}

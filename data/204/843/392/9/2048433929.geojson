@@ -1,0 +1,72 @@
+{
+  "id": 2048433929,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-09-25",
+    "date:inception_upper": "2026-09-25",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-09-25",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2026-09-25",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL8846",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-MKE",
+    "flysfo:scheduled_timestamp": 1790375100,
+    "flysfo:timestamp": 1790375100,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-87.896339,42.949572",
+    "geom:latitude": 40.283781000000005,
+    "geom:longitude": -105.133641,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102530849,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260925-D-DAL-8846",
+    "sfomuseum:flight_number": [
+      "DAL8846",
+      "DL8846"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1790439277,
+    "wof:geomhash": "85f13befc363c1b91d2a48be031a5d6a",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048433929,
+        "flight_id": 2048433929
+      }
+    ],
+    "wof:id": 2048433929,
+    "wof:involves": [
+      102530849,
+      102527513,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1790439277,
+    "wof:name": "DL8846 (SFO-MKE)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-09",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -87.896339,
+    42.949572
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-87.896339,42.949572]]}
+}
