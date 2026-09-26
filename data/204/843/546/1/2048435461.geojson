@@ -2,10 +2,12 @@
   "id": 2048435461,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-09-25",
-    "date:inception_upper": "2026-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-25",
+    "date:cessation_lower": "2026-09-26",
+    "date:cessation_upper": "2026-09-26",
+    "date:inception_lower": "2026-09-26",
+    "date:inception_upper": "2026-09-26",
+    "edtf:cessation": "2026-09-26T09:30:34Z",
+    "edtf:inception": "2026-09-26T05:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158153390"
+    },
     "wof:country": "US",
     "wof:created": 1790439452,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -94,7 +102,7 @@
       1947304519,
       1159283697
     ],
-    "wof:lastmodified": 1790439452,
+    "wof:lastmodified": 1790439655,
     "wof:name": "UA233 (SFO-ATL)",
     "wof:parent_id": 1947304519,
     "wof:placetype": "custom",

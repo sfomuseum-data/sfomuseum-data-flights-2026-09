@@ -2,10 +2,12 @@
   "id": 2048435421,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-09-25",
-    "date:inception_upper": "2026-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-25",
+    "date:cessation_lower": "2026-09-26",
+    "date:cessation_upper": "2026-09-26",
+    "date:inception_lower": "2026-09-26",
+    "date:inception_upper": "2026-09-26",
+    "edtf:cessation": "2026-09-26T03:55:01Z",
+    "edtf:inception": "2026-09-26T00:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.006986,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61776,
     "lbl:longitude": -122.3918,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102521851,
     "sfomuseum:base_flight_id": "20260925-D-ACA-3243",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N77536",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158136722"
+    },
     "wof:country": "US",
     "wof:created": 1790439446,
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
@@ -92,9 +104,10 @@
       102527513,
       1159285413,
       1947304137,
-      1159283597
+      1159283597,
+      1159289871
     ],
-    "wof:lastmodified": 1790439446,
+    "wof:lastmodified": 1790439654,
     "wof:name": "UA2150 (SFO-AUS)",
     "wof:parent_id": 1947304137,
     "wof:placetype": "custom",

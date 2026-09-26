@@ -2,10 +2,12 @@
   "id": 2048433415,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-25",
+    "date:cessation_upper": "2026-09-25",
     "date:inception_lower": "2026-09-25",
     "date:inception_upper": "2026-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-25",
+    "edtf:cessation": "2026-09-25T21:50:29Z",
+    "edtf:inception": "2026-09-25T17:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158191578"
+    },
     "wof:country": "US",
     "wof:created": 1790439217,
     "wof:geomhash": "df4d5906f2523703f9da91c779be1785",
@@ -94,7 +102,7 @@
       1947304267,
       1159283717
     ],
-    "wof:lastmodified": 1790439217,
+    "wof:lastmodified": 1790439642,
     "wof:name": "AS8 (SFO-DCA)",
     "wof:parent_id": 1947304267,
     "wof:placetype": "custom",

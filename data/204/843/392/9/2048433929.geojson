@@ -2,10 +2,12 @@
   "id": 2048433929,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-25",
+    "date:cessation_upper": "2026-09-25",
     "date:inception_lower": "2026-09-25",
     "date:inception_upper": "2026-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-25",
+    "edtf:cessation": "2026-09-25T05:06:57Z",
+    "edtf:inception": "2026-09-25T03:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-09-25",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "158148816"
+    },
     "wof:country": "US",
     "wof:created": 1790439277,
     "wof:geomhash": "85f13befc363c1b91d2a48be031a5d6a",
@@ -51,7 +56,7 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1790439277,
+    "wof:lastmodified": 1790439645,
     "wof:name": "DL8846 (SFO-MKE)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048435609,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-25",
+    "date:cessation_upper": "2026-09-25",
     "date:inception_lower": "2026-09-25",
     "date:inception_upper": "2026-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-25",
+    "edtf:cessation": "2026-09-25T18:19:25Z",
+    "edtf:inception": "2026-09-25T17:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-25",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158190758"
+    },
     "wof:country": "US",
     "wof:created": 1790439468,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -88,7 +96,7 @@
       1159285413,
       1947304141
     ],
-    "wof:lastmodified": 1790439468,
+    "wof:lastmodified": 1790439656,
     "wof:name": "UA3774 (SFO-LAS)",
     "wof:parent_id": 1947304141,
     "wof:placetype": "custom",

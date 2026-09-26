@@ -2,10 +2,12 @@
   "id": 2048433931,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-25",
+    "date:cessation_upper": "2026-09-25",
     "date:inception_lower": "2026-09-25",
     "date:inception_upper": "2026-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-25",
+    "edtf:cessation": "2026-09-25T09:50:12Z",
+    "edtf:inception": "2026-09-25T08:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-09-25",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158157307"
+    },
     "wof:country": "US",
     "wof:created": 1790439277,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -88,7 +96,7 @@
       1159284261,
       1947304671
     ],
-    "wof:lastmodified": 1790439277,
+    "wof:lastmodified": 1790439645,
     "wof:name": "DL8841 (SFO-LAX)",
     "wof:parent_id": 1947304671,
     "wof:placetype": "custom",

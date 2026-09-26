@@ -2,10 +2,12 @@
   "id": 2048431395,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-25",
+    "date:cessation_upper": "2026-09-25",
     "date:inception_lower": "2026-09-25",
     "date:inception_upper": "2026-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-25",
+    "edtf:cessation": "2026-09-25T07:59:36-07:00",
+    "edtf:inception": "2026-09-25T21:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.9938205,
     "geom:longitude": -122.6226995,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527187,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N851UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "158170764"
+    },
     "wof:country": "US",
     "wof:created": 1790438988,
     "wof:geomhash": "10bf27aabb5200ef4863b11f6c2a5d60",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048431395,
     "wof:involves": [
-      102527513,
       102527187,
       1159285413,
-      -1
+      1159289407,
+      102527513
     ],
-    "wof:lastmodified": 1790438988,
+    "wof:lastmodified": 1790439631,
     "wof:name": "UA8150 (MFR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

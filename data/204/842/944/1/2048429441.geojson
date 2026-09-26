@@ -2,10 +2,12 @@
   "id": 2048429441,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-25",
+    "date:cessation_upper": "2026-09-25",
     "date:inception_lower": "2026-09-25",
     "date:inception_upper": "2026-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-25",
+    "edtf:cessation": "2026-09-25T07:56:05Z",
+    "edtf:inception": "2026-09-25T07:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-09-25",
@@ -48,6 +50,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158154869"
+    },
     "wof:country": "US",
     "wof:created": 1790438761,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -88,7 +93,7 @@
       1159284261,
       1947304671
     ],
-    "wof:lastmodified": 1790438761,
+    "wof:lastmodified": 1790439617,
     "wof:name": "DL8964 (LAX-SFO)",
     "wof:parent_id": 1947304671,
     "wof:placetype": "custom",

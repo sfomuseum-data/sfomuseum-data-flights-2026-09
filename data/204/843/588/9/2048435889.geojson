@@ -2,10 +2,12 @@
   "id": 2048435889,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-25",
+    "date:cessation_upper": "2026-09-25",
     "date:inception_lower": "2026-09-25",
     "date:inception_upper": "2026-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-25",
+    "edtf:cessation": "2026-09-25T22:35:48Z",
+    "edtf:inception": "2026-09-25T20:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.612295,
     "geom:longitude": -116.5547415,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534217,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N4901U",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "158215275"
+    },
     "wof:country": "US",
     "wof:created": 1790439500,
     "wof:geomhash": "9f2aefec298b0356dc0b4065c5b61f73",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048435889,
     "wof:involves": [
+      1159292085,
       102534217,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1790439500,
+    "wof:lastmodified": 1790439658,
     "wof:name": "UA8193 (SFO-JAC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

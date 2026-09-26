@@ -2,10 +2,12 @@
   "id": 2048435353,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-25",
+    "date:cessation_upper": "2026-09-25",
     "date:inception_lower": "2026-09-25",
     "date:inception_upper": "2026-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-25",
+    "edtf:cessation": "2026-09-25T18:32:53Z",
+    "edtf:inception": "2026-09-25T18:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.5616045,
     "geom:longitude": -121.07155499999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102525535,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N86534",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158197761"
+    },
     "wof:country": "US",
     "wof:created": 1790439439,
     "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048435353,
     "wof:involves": [
+      1947304603,
+      1159289871,
       102525535,
       102527513,
-      1159285413,
-      1947304603
+      1159285413
     ],
-    "wof:lastmodified": 1790439439,
+    "wof:lastmodified": 1790439654,
     "wof:name": "UA1845 (SFO-RNO)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

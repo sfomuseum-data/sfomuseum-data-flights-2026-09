@@ -2,10 +2,12 @@
   "id": 2048435473,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-25",
+    "date:cessation_upper": "2026-09-25",
     "date:inception_lower": "2026-09-25",
     "date:inception_upper": "2026-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-25",
+    "edtf:cessation": "2026-09-25T22:44:55Z",
+    "edtf:inception": "2026-09-25T19:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.576414,
     "geom:longitude": -110.4218635,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527373,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37510",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158208014"
+    },
     "wof:country": "US",
     "wof:created": 1790439453,
     "wof:geomhash": "3d1812cb234aac8b643ea0201167e576",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048435473,
     "wof:involves": [
+      1528104577,
       102527373,
       102527513,
       1159285413,
       1947304527
     ],
-    "wof:lastmodified": 1790439453,
+    "wof:lastmodified": 1790439655,
     "wof:name": "UA2365 (SFO-SAT)",
     "wof:parent_id": 1947304527,
     "wof:placetype": "custom",

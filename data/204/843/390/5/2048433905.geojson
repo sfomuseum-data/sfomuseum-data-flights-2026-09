@@ -2,10 +2,12 @@
   "id": 2048433905,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-26",
+    "date:cessation_upper": "2026-09-26",
     "date:inception_lower": "2026-09-25",
     "date:inception_upper": "2026-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-25",
+    "edtf:cessation": "2026-09-26T04:09:29Z",
+    "edtf:inception": "2026-09-25T23:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-09-25",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158231098"
+    },
     "wof:country": "US",
     "wof:created": 1790439274,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -88,7 +96,7 @@
       1159284261,
       1947304675
     ],
-    "wof:lastmodified": 1790439274,
+    "wof:lastmodified": 1790439645,
     "wof:name": "DL750 (SFO-ATL)",
     "wof:parent_id": 1947304675,
     "wof:placetype": "custom",
