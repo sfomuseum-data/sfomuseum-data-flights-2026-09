@@ -2,10 +2,12 @@
   "id": 2048442379,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-26",
+    "date:cessation_upper": "2026-09-26",
     "date:inception_lower": "2026-09-26",
     "date:inception_upper": "2026-09-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-26",
+    "edtf:cessation": "2026-09-26T18:46:26Z",
+    "edtf:inception": "2026-09-26T17:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "icao:base_airline": "VIR",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:base_flight_id": "20260926-D-VIR-4543",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N373NW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +97,14 @@
     ],
     "wof:id": 2048442379,
     "wof:involves": [
-      102527363,
       102527513,
       1159284261,
       1947304679,
-      1159285483
+      1159285483,
+      1159292085,
+      102527363
     ],
-    "wof:lastmodified": 1790525619,
+    "wof:lastmodified": 1790525950,
     "wof:name": "DL920 (SFO-SLC)",
     "wof:parent_id": 1947304679,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048440009,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-26",
+    "date:cessation_upper": "2026-09-26",
     "date:inception_lower": "2026-09-26",
     "date:inception_upper": "2026-09-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-26",
+    "edtf:cessation": "2026-09-26T23:49:13Z",
+    "edtf:inception": "2026-09-26T20:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158303696"
+    },
     "wof:country": "US",
     "wof:created": 1790525349,
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
@@ -94,7 +102,7 @@
       1947304523,
       1159284333
     ],
-    "wof:lastmodified": 1790525349,
+    "wof:lastmodified": 1790525927,
     "wof:name": "UA589 (IAH-SFO)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

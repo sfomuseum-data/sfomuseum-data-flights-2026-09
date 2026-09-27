@@ -2,10 +2,12 @@
   "id": 2048443595,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-09-26",
-    "date:inception_upper": "2026-09-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-26",
+    "date:cessation_lower": "2026-09-27",
+    "date:cessation_upper": "2026-09-27",
+    "date:inception_lower": "2026-09-27",
+    "date:inception_upper": "2026-09-27",
+    "edtf:cessation": "2026-09-27T03:53:26Z",
+    "edtf:inception": "2026-09-27T02:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617906,
     "lbl:longitude": -122.390944,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:base_flight_id": "20260926-D-ACA-4214",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N76516",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158241987"
+    },
     "wof:country": "US",
     "wof:created": 1790525757,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048443595,
     "wof:involves": [
-      102526751,
       102527513,
       1159285413,
       1947304145,
-      1159283597
+      1159283597,
+      1159289871,
+      102526751
     ],
-    "wof:lastmodified": 1790525757,
+    "wof:lastmodified": 1790525963,
     "wof:name": "UA1375 (SFO-PHX)",
     "wof:parent_id": 1947304145,
     "wof:placetype": "custom",

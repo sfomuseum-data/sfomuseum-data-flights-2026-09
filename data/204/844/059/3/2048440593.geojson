@@ -2,10 +2,12 @@
   "id": 2048440593,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-27",
+    "date:cessation_upper": "2026-09-27",
     "date:inception_lower": "2026-09-26",
     "date:inception_upper": "2026-09-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-26",
+    "edtf:cessation": "2026-09-27T01:01:59Z",
+    "edtf:inception": "2026-09-26T23:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158319075"
+    },
     "wof:country": "US",
     "wof:created": 1790525415,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -94,7 +102,7 @@
       1947304309,
       1159284021
     ],
-    "wof:lastmodified": 1790525415,
+    "wof:lastmodified": 1790525931,
     "wof:name": "AA1837 (SFO-PHX)",
     "wof:parent_id": 1947304309,
     "wof:placetype": "custom",
