@@ -2,10 +2,12 @@
   "id": 2048448799,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-28",
+    "date:cessation_upper": "2026-09-28",
     "date:inception_lower": "2026-09-27",
     "date:inception_upper": "2026-09-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-27",
+    "edtf:cessation": "2026-09-27T23:59:54-07:00",
+    "edtf:inception": "2026-09-27T13:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.9389005,
     "geom:longitude": -121.76404,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530507,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N807UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158346023"
+    },
     "wof:country": "US",
     "wof:created": 1790611785,
     "wof:geomhash": "e570a09b358444cf621c068c13b8dbc0",
@@ -86,9 +98,10 @@
       102527513,
       102530507,
       1159285413,
-      1947304617
+      1947304617,
+      1159289407
     ],
-    "wof:lastmodified": 1790611785,
+    "wof:lastmodified": 1790612428,
     "wof:name": "UA702 (RDM-SFO)",
     "wof:parent_id": 1947304617,
     "wof:placetype": "custom",

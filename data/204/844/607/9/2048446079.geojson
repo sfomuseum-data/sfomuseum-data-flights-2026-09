@@ -2,10 +2,12 @@
   "id": 2048446079,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-27",
+    "date:cessation_upper": "2026-09-27",
     "date:inception_lower": "2026-09-27",
     "date:inception_upper": "2026-09-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-27",
+    "edtf:cessation": "2026-09-27T23:24:22Z",
+    "edtf:inception": "2026-09-27T22:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158389958"
+    },
     "wof:country": "US",
     "wof:created": 1790611467,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -94,7 +102,7 @@
       1947304275,
       1159283849
     ],
-    "wof:lastmodified": 1790611467,
+    "wof:lastmodified": 1790612393,
     "wof:name": "AS236 (PDX-SFO)",
     "wof:parent_id": 1947304275,
     "wof:placetype": "custom",

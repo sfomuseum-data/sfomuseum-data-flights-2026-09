@@ -2,10 +2,12 @@
   "id": 2048453417,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-27",
+    "date:cessation_upper": "2026-09-27",
     "date:inception_lower": "2026-09-27",
     "date:inception_upper": "2026-09-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-27",
+    "edtf:cessation": "2026-09-27T20:58:06Z",
+    "edtf:inception": "2026-09-27T17:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.674126,
     "geom:longitude": -104.324809,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534155,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N483UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "158366139"
+    },
     "wof:country": "US",
     "wof:created": 1790612308,
     "wof:geomhash": "75b67362ad403f806ec665af17b684aa",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048453417,
     "wof:involves": [
-      102534155,
-      102527513,
       1159285413,
-      -1
+      1159292085,
+      102534155,
+      102527513
     ],
-    "wof:lastmodified": 1790612308,
+    "wof:lastmodified": 1790612471,
     "wof:name": "UA8167 (SFO-IND)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

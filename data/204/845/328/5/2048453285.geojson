@@ -2,10 +2,12 @@
   "id": 2048453285,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-27",
+    "date:cessation_upper": "2026-09-27",
     "date:inception_lower": "2026-09-27",
     "date:inception_upper": "2026-09-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-27",
+    "edtf:cessation": "2026-09-27T22:07:36Z",
+    "edtf:inception": "2026-09-27T20:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-27",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "158378401"
+    },
     "wof:country": "US",
     "wof:created": 1790612293,
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
@@ -51,7 +59,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1790612293,
+    "wof:lastmodified": 1790612469,
     "wof:name": "UA578 (SFO-SBA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

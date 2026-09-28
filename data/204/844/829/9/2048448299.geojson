@@ -2,10 +2,12 @@
   "id": 2048448299,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-27",
+    "date:cessation_upper": "2026-09-27",
     "date:inception_lower": "2026-09-27",
     "date:inception_upper": "2026-09-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-27",
+    "edtf:cessation": "2026-09-27T13:43:58Z",
+    "edtf:inception": "2026-09-27T08:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158334872"
+    },
     "wof:country": "US",
     "wof:created": 1790611727,
     "wof:geomhash": "d5ad4a83d3d679d1b3fe86e419b08d84",
@@ -94,7 +102,7 @@
       1947304489,
       1159283597
     ],
-    "wof:lastmodified": 1790611727,
+    "wof:lastmodified": 1790612423,
     "wof:name": "UA1724 (KOA-SFO)",
     "wof:parent_id": 1947304489,
     "wof:placetype": "custom",

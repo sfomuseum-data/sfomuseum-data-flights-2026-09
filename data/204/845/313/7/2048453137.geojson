@@ -2,10 +2,12 @@
   "id": 2048453137,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-27",
+    "date:cessation_upper": "2026-09-27",
     "date:inception_lower": "2026-09-27",
     "date:inception_upper": "2026-09-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-27",
+    "edtf:cessation": "2026-09-27T04:03:11Z",
+    "edtf:inception": "2026-09-27T03:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-27",
@@ -48,6 +50,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158390174"
+    },
     "wof:country": "US",
     "wof:created": 1790612277,
     "wof:geomhash": "325a27079583eb22ad4e829d7b21e0b3",
@@ -88,7 +93,7 @@
       1159285413,
       1947304131
     ],
-    "wof:lastmodified": 1790612277,
+    "wof:lastmodified": 1790612468,
     "wof:name": "UA3893 (SFO-XMN)",
     "wof:parent_id": 1947304131,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048453027,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-09-27",
-    "date:inception_upper": "2026-09-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-27",
+    "date:cessation_lower": "2026-09-28",
+    "date:cessation_upper": "2026-09-28",
+    "date:inception_lower": "2026-09-28",
+    "date:inception_upper": "2026-09-28",
+    "edtf:cessation": "2026-09-28T02:53:08Z",
+    "edtf:inception": "2026-09-28T01:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158322031"
+    },
     "wof:country": "US",
     "wof:created": 1790612264,
     "wof:geomhash": "398b6cf59cf3bdf390f5834c7a336099",
@@ -94,7 +102,7 @@
       1947304151,
       1159284333
     ],
-    "wof:lastmodified": 1790612264,
+    "wof:lastmodified": 1790612466,
     "wof:name": "UA2418 (SFO-RDM)",
     "wof:parent_id": 1947304151,
     "wof:placetype": "custom",

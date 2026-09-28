@@ -2,10 +2,12 @@
   "id": 2048453299,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-27",
+    "date:cessation_upper": "2026-09-27",
     "date:inception_lower": "2026-09-27",
     "date:inception_upper": "2026-09-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-27",
+    "edtf:cessation": "2026-09-27T02:33:06Z",
+    "edtf:inception": "2026-09-27T01:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158327945"
+    },
     "wof:country": "US",
     "wof:created": 1790612295,
     "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
@@ -94,7 +99,7 @@
       1947304141,
       1159283597
     ],
-    "wof:lastmodified": 1790612295,
+    "wof:lastmodified": 1790612470,
     "wof:name": "UA581 (SFO-RNO)",
     "wof:parent_id": 1947304141,
     "wof:placetype": "custom",
