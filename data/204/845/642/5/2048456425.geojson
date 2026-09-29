@@ -2,10 +2,12 @@
   "id": 2048456425,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-29",
+    "date:cessation_upper": "2026-09-29",
     "date:inception_lower": "2026-09-28",
     "date:inception_upper": "2026-09-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-28",
+    "edtf:cessation": "2026-09-29T01:29:51Z",
+    "edtf:inception": "2026-09-28T21:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158464111"
+    },
     "wof:country": "US",
     "wof:created": 1790697953,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
@@ -94,7 +102,7 @@
       1947304669,
       1159283627
     ],
-    "wof:lastmodified": 1790697953,
+    "wof:lastmodified": 1790698826,
     "wof:name": "DL442 (DTW-SFO)",
     "wof:parent_id": 1947304669,
     "wof:placetype": "custom",

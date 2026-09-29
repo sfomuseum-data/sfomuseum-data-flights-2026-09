@@ -2,10 +2,12 @@
   "id": 2048462333,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-29",
+    "date:cessation_upper": "2026-09-29",
     "date:inception_lower": "2026-09-28",
     "date:inception_upper": "2026-09-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-28",
+    "edtf:cessation": "2026-09-29T00:57:54Z",
+    "edtf:inception": "2026-09-28T20:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,7 +41,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "158414615"
+    },
     "wof:country": "US",
     "wof:created": 1790698628,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -57,7 +65,7 @@
       -1,
       1159283875
     ],
-    "wof:lastmodified": 1790698628,
+    "wof:lastmodified": 1790698881,
     "wof:name": "UA130 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

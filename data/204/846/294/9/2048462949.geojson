@@ -2,10 +2,12 @@
   "id": 2048462949,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-28",
+    "date:cessation_upper": "2026-09-28",
     "date:inception_lower": "2026-09-28",
     "date:inception_upper": "2026-09-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-28",
+    "edtf:cessation": "2026-09-28T05:01:49Z",
+    "edtf:inception": "2026-09-28T03:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158403249"
+    },
     "wof:country": "US",
     "wof:created": 1790698697,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -94,7 +99,7 @@
       1947304627,
       1159285749
     ],
-    "wof:lastmodified": 1790698697,
+    "wof:lastmodified": 1790698886,
     "wof:name": "UA8100 (SFO-YVR)",
     "wof:parent_id": 1947304627,
     "wof:placetype": "custom",

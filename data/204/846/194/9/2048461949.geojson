@@ -2,10 +2,12 @@
   "id": 2048461949,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-28",
+    "date:cessation_upper": "2026-09-28",
     "date:inception_lower": "2026-09-28",
     "date:inception_upper": "2026-09-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-28",
+    "edtf:cessation": "2026-09-28T13:22:57Z",
+    "edtf:inception": "2026-09-28T12:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-09-28",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158421561"
+    },
     "wof:country": "US",
     "wof:created": 1790698584,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -88,7 +96,7 @@
       1159285591,
       1947304603
     ],
-    "wof:lastmodified": 1790698584,
+    "wof:lastmodified": 1790698878,
     "wof:name": "WN1138 (SFO-LAS)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

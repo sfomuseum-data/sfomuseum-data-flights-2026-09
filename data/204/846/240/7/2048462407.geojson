@@ -2,10 +2,12 @@
   "id": 2048462407,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-28",
+    "date:cessation_upper": "2026-09-28",
     "date:inception_lower": "2026-09-28",
     "date:inception_upper": "2026-09-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-28",
+    "edtf:cessation": "2026-09-28T23:50:13Z",
+    "edtf:inception": "2026-09-28T22:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158468123"
+    },
     "wof:country": "US",
     "wof:created": 1790698636,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -94,7 +102,7 @@
       1947304531,
       1159283597
     ],
-    "wof:lastmodified": 1790698636,
+    "wof:lastmodified": 1790698882,
     "wof:name": "UA1668 (SFO-SAN)",
     "wof:parent_id": 1947304531,
     "wof:placetype": "custom",

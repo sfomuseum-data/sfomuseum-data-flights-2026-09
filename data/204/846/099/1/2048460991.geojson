@@ -2,10 +2,12 @@
   "id": 2048460991,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-28",
+    "date:cessation_upper": "2026-09-28",
     "date:inception_lower": "2026-09-28",
     "date:inception_upper": "2026-09-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-28",
+    "edtf:cessation": "2026-09-28T03:11:09Z",
+    "edtf:inception": "2026-09-28T00:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-09-28",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "158409583"
+    },
     "wof:country": "US",
     "wof:created": 1790698475,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -51,7 +56,7 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1790698475,
+    "wof:lastmodified": 1790698859,
     "wof:name": "DL8959 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048454453,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-09-28",
-    "date:inception_upper": "2026-09-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-28",
+    "date:cessation_lower": "2026-09-28",
+    "date:cessation_upper": "2026-09-28",
+    "date:inception_lower": "2026-09-29",
+    "date:inception_upper": "2026-09-29",
+    "edtf:cessation": "2026-09-28T16:27:35-07:00",
+    "edtf:inception": "2026-09-29T01:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.3334745,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "AAL",
     "icao:base_airline": "GLO",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260928-A-GLO-6106",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N472AN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158403355"
+    },
     "wof:country": "US",
     "wof:created": 1790697695,
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
@@ -92,9 +104,10 @@
       102531023,
       1159283849,
       1947304277,
-      1779770725
+      1779770725,
+      1377564297
     ],
-    "wof:lastmodified": 1790697695,
+    "wof:lastmodified": 1790698799,
     "wof:name": "AA2347 (MIA-SFO)",
     "wof:parent_id": 1947304277,
     "wof:placetype": "custom",

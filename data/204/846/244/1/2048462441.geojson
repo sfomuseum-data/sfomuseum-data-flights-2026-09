@@ -2,10 +2,12 @@
   "id": 2048462441,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-28",
+    "date:cessation_upper": "2026-09-28",
     "date:inception_lower": "2026-09-28",
     "date:inception_upper": "2026-09-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-28",
+    "edtf:cessation": "2026-09-28T05:14:44Z",
+    "edtf:inception": "2026-09-28T04:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-28",
@@ -48,6 +50,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158410522"
+    },
     "wof:country": "US",
     "wof:created": 1790698640,
     "wof:geomhash": "398b6cf59cf3bdf390f5834c7a336099",
@@ -88,7 +93,7 @@
       1159285413,
       1947304457
     ],
-    "wof:lastmodified": 1790698640,
+    "wof:lastmodified": 1790698882,
     "wof:name": "UA1809 (SFO-RDM)",
     "wof:parent_id": 1947304457,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048458199,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-28",
+    "date:cessation_upper": "2026-09-28",
     "date:inception_lower": "2026-09-28",
     "date:inception_upper": "2026-09-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-28",
+    "edtf:cessation": "2026-09-28T07:42:00Z",
+    "edtf:inception": "2026-09-28T06:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-28",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "158411936"
+    },
     "wof:country": "US",
     "wof:created": 1790698156,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -51,7 +56,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1790698156,
+    "wof:lastmodified": 1790698840,
     "wof:name": "UA3769 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

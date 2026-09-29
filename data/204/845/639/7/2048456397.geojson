@@ -2,10 +2,12 @@
   "id": 2048456397,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-28",
+    "date:cessation_upper": "2026-09-28",
     "date:inception_lower": "2026-09-28",
     "date:inception_upper": "2026-09-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-28",
+    "edtf:cessation": "2026-09-28T06:41:15Z",
+    "edtf:inception": "2026-09-28T05:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158411641"
+    },
     "wof:country": "US",
     "wof:created": 1790697950,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -94,7 +99,7 @@
       1947304677,
       1159283539
     ],
-    "wof:lastmodified": 1790697950,
+    "wof:lastmodified": 1790698825,
     "wof:name": "DL2635 (SEA-SFO)",
     "wof:parent_id": 1947304677,
     "wof:placetype": "custom",

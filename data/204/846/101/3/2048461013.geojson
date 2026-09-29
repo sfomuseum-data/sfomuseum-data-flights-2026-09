@@ -2,10 +2,12 @@
   "id": 2048461013,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-09-28",
-    "date:inception_upper": "2026-09-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-28",
+    "date:cessation_lower": "2026-09-29",
+    "date:cessation_upper": "2026-09-29",
+    "date:inception_lower": "2026-09-29",
+    "date:inception_upper": "2026-09-29",
+    "edtf:cessation": "2026-09-29T14:34:52Z",
+    "edtf:inception": "2026-09-29T04:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LH",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -55.2970675,
     "iata:airline": "LH",
     "iata:base_airline": "",
+    "icao:aircraft": "A359",
     "icao:airline": "DLH",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61836,
     "lbl:longitude": -122.393229,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1159286015,
     "sfomuseum:arrival_id": 102549067,
     "sfomuseum:base_flight_id": "20260928-D-ANZ-4223",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "DAIXL",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158410493"
+    },
     "wof:country": "US",
     "wof:created": 1790698477,
     "wof:geomhash": "d9a5d9d800d6bc92413ff3768040f8da",
@@ -92,9 +104,10 @@
       102527513,
       1159286015,
       1947304133,
-      1159283697
+      1159283697,
+      1377564293
     ],
-    "wof:lastmodified": 1790698477,
+    "wof:lastmodified": 1790698859,
     "wof:name": "LH459 (SFO-MUC)",
     "wof:parent_id": 1947304133,
     "wof:placetype": "custom",

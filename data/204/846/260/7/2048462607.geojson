@@ -2,10 +2,12 @@
   "id": 2048462607,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-09-28",
-    "date:inception_upper": "2026-09-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-28",
+    "date:cessation_lower": "2026-09-29",
+    "date:cessation_upper": "2026-09-29",
+    "date:inception_lower": "2026-09-29",
+    "date:inception_upper": "2026-09-29",
+    "edtf:cessation": "2026-09-29T04:00:13Z",
+    "edtf:inception": "2026-09-29T02:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.838961999999995,
     "geom:longitude": -119.97934599999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533575,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N838UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158407227"
+    },
     "wof:country": "US",
     "wof:created": 1790698659,
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048462607,
     "wof:involves": [
+      1159289407,
       102533575,
       102527513,
       1159285413,
       1947304473
     ],
-    "wof:lastmodified": 1790698659,
+    "wof:lastmodified": 1790698884,
     "wof:name": "UA2478 (SFO-ONT)",
     "wof:parent_id": 1947304473,
     "wof:placetype": "custom",

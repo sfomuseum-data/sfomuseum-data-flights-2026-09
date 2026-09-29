@@ -2,10 +2,12 @@
   "id": 2048462303,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-28",
+    "date:cessation_upper": "2026-09-28",
     "date:inception_lower": "2026-09-28",
     "date:inception_upper": "2026-09-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-28",
+    "edtf:cessation": "2026-09-28T09:12:25Z",
+    "edtf:inception": "2026-09-28T05:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-28",
@@ -48,6 +50,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158411659"
+    },
     "wof:country": "US",
     "wof:created": 1790698624,
     "wof:geomhash": "b3e3651b522d461c555c2feff400782a",
@@ -88,7 +93,7 @@
       1159285413,
       1947304515
     ],
-    "wof:lastmodified": 1790698624,
+    "wof:lastmodified": 1790698881,
     "wof:name": "UA1160 (SFO-CMH)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",

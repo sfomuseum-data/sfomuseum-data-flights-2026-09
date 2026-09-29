@@ -2,10 +2,12 @@
   "id": 2048460999,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-28",
+    "date:cessation_upper": "2026-09-28",
     "date:inception_lower": "2026-09-28",
     "date:inception_upper": "2026-09-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-28",
+    "edtf:cessation": "2026-09-28T21:45:41Z",
+    "edtf:inception": "2026-09-28T18:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-09-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.231919500000004,
     "geom:longitude": -109.610733,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102525799,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N664DN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158445421"
+    },
     "wof:country": "US",
     "wof:created": 1790698476,
     "wof:geomhash": "a08c5b1a6c329f228ec453404f254a51",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048460999,
     "wof:involves": [
+      1159289939,
       102525799,
       102527513,
       1159284261,
       1947304299
     ],
-    "wof:lastmodified": 1790698476,
+    "wof:lastmodified": 1790698859,
     "wof:name": "DL8964 (SFO-DAL)",
     "wof:parent_id": 1947304299,
     "wof:placetype": "custom",
