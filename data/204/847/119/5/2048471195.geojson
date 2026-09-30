@@ -2,10 +2,12 @@
   "id": 2048471195,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-30",
+    "date:cessation_upper": "2026-09-30",
     "date:inception_lower": "2026-09-29",
     "date:inception_upper": "2026-09-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-29",
+    "edtf:cessation": "2026-09-30T07:22:36Z",
+    "edtf:inception": "2026-09-29T21:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158466628"
+    },
     "wof:country": "US",
     "wof:created": 1790784975,
     "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
@@ -94,7 +102,7 @@
       1947304155,
       1159283597
     ],
-    "wof:lastmodified": 1790784975,
+    "wof:lastmodified": 1790785137,
     "wof:name": "UA58 (SFO-FRA)",
     "wof:parent_id": 1947304155,
     "wof:placetype": "custom",

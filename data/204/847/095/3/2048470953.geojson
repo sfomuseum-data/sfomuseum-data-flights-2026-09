@@ -2,10 +2,12 @@
   "id": 2048470953,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-29",
+    "date:cessation_upper": "2026-09-29",
     "date:inception_lower": "2026-09-29",
     "date:inception_upper": "2026-09-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-29",
+    "edtf:cessation": "2026-09-29T22:45:54Z",
+    "edtf:inception": "2026-09-29T19:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158539916"
+    },
     "wof:country": "US",
     "wof:created": 1790784947,
     "wof:geomhash": "3d1812cb234aac8b643ea0201167e576",
@@ -94,7 +102,7 @@
       1947304631,
       1159283597
     ],
-    "wof:lastmodified": 1790784947,
+    "wof:lastmodified": 1790785135,
     "wof:name": "UA2365 (SFO-SAT)",
     "wof:parent_id": 1947304631,
     "wof:placetype": "custom",

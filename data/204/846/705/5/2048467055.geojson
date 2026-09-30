@@ -2,10 +2,12 @@
   "id": 2048467055,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-29",
+    "date:cessation_upper": "2026-09-29",
     "date:inception_lower": "2026-09-29",
     "date:inception_upper": "2026-09-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-29",
+    "edtf:cessation": "2026-09-29T02:29:52-07:00",
+    "edtf:inception": "2026-09-29T15:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-29",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.294839499999995,
     "geom:longitude": -123.2394815,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531997,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N807UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158584411"
+    },
     "wof:country": "US",
     "wof:created": 1790784501,
     "wof:geomhash": "dcc7d5812c5708e8b42757f5054e75d6",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048467055,
     "wof:involves": [
+      1947304279,
+      1159289407,
       102527513,
       102531997,
-      1159285413,
-      1947304279
+      1159285413
     ],
-    "wof:lastmodified": 1790784501,
+    "wof:lastmodified": 1790785102,
     "wof:name": "UA3891 (ACV-SFO)",
     "wof:parent_id": 1947304279,
     "wof:placetype": "custom",

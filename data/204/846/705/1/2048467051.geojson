@@ -2,10 +2,12 @@
   "id": 2048467051,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-29",
+    "date:cessation_upper": "2026-09-29",
     "date:inception_lower": "2026-09-29",
     "date:inception_upper": "2026-09-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-29",
+    "edtf:cessation": "2026-09-29T10:49:00-07:00",
+    "edtf:inception": "2026-09-29T20:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-29",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
+    "icao:aircraft": "B788",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620818,
     "lbl:longitude": -122.389182,
+    "sfomuseum:aircraft_id": 1159289995,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533631,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N27901",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158588784"
+    },
     "wof:country": "US",
     "wof:created": 1790784500,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048467051,
     "wof:involves": [
-      102527513,
-      102533631,
       1159285413,
-      1947304455
+      1947304455,
+      1159289995,
+      102527513,
+      102533631
     ],
-    "wof:lastmodified": 1790784500,
+    "wof:lastmodified": 1790785102,
     "wof:name": "UA3860 (ORD-SFO)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

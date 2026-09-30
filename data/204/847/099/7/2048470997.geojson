@@ -2,10 +2,12 @@
   "id": 2048470997,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-30",
+    "date:cessation_upper": "2026-09-30",
     "date:inception_lower": "2026-09-29",
     "date:inception_upper": "2026-09-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-29",
+    "edtf:cessation": "2026-09-30T04:39:54Z",
+    "edtf:inception": "2026-09-29T23:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158561061"
+    },
     "wof:country": "US",
     "wof:created": 1790784952,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -94,7 +102,7 @@
       1947304475,
       1159283697
     ],
-    "wof:lastmodified": 1790784952,
+    "wof:lastmodified": 1790785135,
     "wof:name": "UA2626 (SFO-EWR)",
     "wof:parent_id": 1947304475,
     "wof:placetype": "custom",

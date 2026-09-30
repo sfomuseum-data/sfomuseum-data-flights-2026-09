@@ -2,10 +2,12 @@
   "id": 2048465393,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-29",
+    "date:cessation_upper": "2026-09-29",
     "date:inception_lower": "2026-09-29",
     "date:inception_upper": "2026-09-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-29",
+    "edtf:cessation": "2026-09-29T08:20:54Z",
+    "edtf:inception": "2026-09-29T04:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158566500"
+    },
     "wof:country": "US",
     "wof:created": 1790784309,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -94,7 +99,7 @@
       1947304279,
       1159285641
     ],
-    "wof:lastmodified": 1790784309,
+    "wof:lastmodified": 1790785069,
     "wof:name": "DL2919 (BOS-SFO)",
     "wof:parent_id": 1947304279,
     "wof:placetype": "custom",
