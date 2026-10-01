@@ -2,10 +2,12 @@
   "id": 2048480589,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-01",
+    "date:cessation_upper": "2026-10-01",
     "date:inception_lower": "2026-09-30",
     "date:inception_upper": "2026-09-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-30",
+    "edtf:cessation": "2026-10-01T02:42:56Z",
+    "edtf:inception": "2026-09-30T23:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-30",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "158644429"
+    },
     "wof:country": "US",
     "wof:created": 1790871449,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
@@ -51,7 +59,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1790871449,
+    "wof:lastmodified": 1790871615,
     "wof:name": "UA8105 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

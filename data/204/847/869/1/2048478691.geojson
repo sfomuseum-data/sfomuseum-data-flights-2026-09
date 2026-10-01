@@ -2,10 +2,12 @@
   "id": 2048478691,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-30",
+    "date:cessation_upper": "2026-09-30",
     "date:inception_lower": "2026-09-30",
     "date:inception_upper": "2026-09-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-30",
+    "edtf:cessation": "2026-09-30T04:45:03Z",
+    "edtf:inception": "2026-09-30T01:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-09-30",
@@ -48,6 +50,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158568806"
+    },
     "wof:country": "US",
     "wof:created": 1790871239,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -88,7 +93,7 @@
       1159284261,
       1763588251
     ],
-    "wof:lastmodified": 1790871239,
+    "wof:lastmodified": 1790871596,
     "wof:name": "DL756 (SFO-MSP)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

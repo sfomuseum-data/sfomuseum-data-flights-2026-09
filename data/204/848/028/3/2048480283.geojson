@@ -2,10 +2,12 @@
   "id": 2048480283,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-01",
+    "date:cessation_upper": "2026-10-01",
     "date:inception_lower": "2026-09-30",
     "date:inception_upper": "2026-09-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-30",
+    "edtf:cessation": "2026-10-01T00:37:50Z",
+    "edtf:inception": "2026-09-30T23:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.3621325,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 1746879083,
     "sfomuseum:base_flight_id": "20260930-D-ACA-4198",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N497UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158644454"
+    },
     "wof:country": "US",
     "wof:created": 1790871415,
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048480283,
     "wof:involves": [
+      1159292085,
       1746879083,
       102527513,
       1159285413,
       1947304613,
       1159283597
     ],
-    "wof:lastmodified": 1790871415,
+    "wof:lastmodified": 1790871613,
     "wof:name": "UA2764 (SFO-BUR)",
     "wof:parent_id": 1947304613,
     "wof:placetype": "custom",

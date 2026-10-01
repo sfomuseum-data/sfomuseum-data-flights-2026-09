@@ -2,10 +2,12 @@
   "id": 2048480319,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-30",
+    "date:cessation_upper": "2026-09-30",
     "date:inception_lower": "2026-09-30",
     "date:inception_upper": "2026-09-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-30",
+    "edtf:cessation": "2026-09-30T06:26:30Z",
+    "edtf:inception": "2026-09-30T04:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618774,
     "lbl:longitude": -122.384852,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:base_flight_id": "20260930-D-ACA-3598",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N77538",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158574232"
+    },
     "wof:country": "US",
     "wof:created": 1790871419,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 2048480319,
     "wof:involves": [
+      1159283597,
+      1159289871,
       102531189,
       102527513,
       1159285413,
-      1947304513,
-      1159283597
+      1947304513
     ],
-    "wof:lastmodified": 1790871419,
+    "wof:lastmodified": 1790871613,
     "wof:name": "UA301 (SFO-DEN)",
     "wof:parent_id": 1947304513,
     "wof:placetype": "custom",

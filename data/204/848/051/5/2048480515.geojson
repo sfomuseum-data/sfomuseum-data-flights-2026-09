@@ -2,10 +2,12 @@
   "id": 2048480515,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-30",
+    "date:cessation_upper": "2026-09-30",
     "date:inception_lower": "2026-09-30",
     "date:inception_upper": "2026-09-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-30",
+    "edtf:cessation": "2026-09-30T22:20:26Z",
+    "edtf:inception": "2026-09-30T07:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158575499"
+    },
     "wof:country": "US",
     "wof:created": 1790871441,
     "wof:geomhash": "945559894ecf54761855aac48d7d95c2",
@@ -94,7 +99,7 @@
       1947304155,
       1159286015
     ],
-    "wof:lastmodified": 1790871441,
+    "wof:lastmodified": 1790871614,
     "wof:name": "UA60 (SFO-MEL)",
     "wof:parent_id": 1947304155,
     "wof:placetype": "custom",

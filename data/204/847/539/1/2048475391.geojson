@@ -2,10 +2,12 @@
   "id": 2048475391,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-01",
+    "date:cessation_upper": "2026-10-01",
     "date:inception_lower": "2026-09-30",
     "date:inception_upper": "2026-09-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-30",
+    "edtf:cessation": "2026-10-01T01:30:54Z",
+    "edtf:inception": "2026-09-30T22:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-09-30",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158640338"
+    },
     "wof:country": "US",
     "wof:created": 1790870876,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -88,7 +96,7 @@
       1159285591,
       1947304625
     ],
-    "wof:lastmodified": 1790870876,
+    "wof:lastmodified": 1790871577,
     "wof:name": "WN184 (AUS-SFO)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

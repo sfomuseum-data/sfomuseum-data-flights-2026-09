@@ -2,10 +2,12 @@
   "id": 2048480337,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-30",
+    "date:cessation_upper": "2026-09-30",
     "date:inception_lower": "2026-09-30",
     "date:inception_upper": "2026-09-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-30",
+    "edtf:cessation": "2026-09-30T21:19:22Z",
+    "edtf:inception": "2026-09-30T16:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-09-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
+    "icao:aircraft": "B763",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N674UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "158662870"
+    },
     "wof:country": "US",
     "wof:created": 1790871421,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048480337,
     "wof:involves": [
-      102533631,
-      102527513,
       1159285413,
-      -1
+      1159289965,
+      102533631,
+      102527513
     ],
-    "wof:lastmodified": 1790871421,
+    "wof:lastmodified": 1790871613,
     "wof:name": "UA3938 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048473717,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-30",
+    "date:cessation_upper": "2026-09-30",
     "date:inception_lower": "2026-09-30",
     "date:inception_upper": "2026-09-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-30",
+    "edtf:cessation": "2026-09-30T02:26:15Z",
+    "edtf:inception": "2026-09-30T01:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158570156"
+    },
     "wof:country": "US",
     "wof:created": 1790870688,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -94,7 +99,7 @@
       1947304289,
       1159283849
     ],
-    "wof:lastmodified": 1790870688,
+    "wof:lastmodified": 1790871568,
     "wof:name": "AS1393 (PDX-SFO)",
     "wof:parent_id": 1947304289,
     "wof:placetype": "custom",

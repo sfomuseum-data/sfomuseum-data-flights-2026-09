@@ -2,10 +2,12 @@
   "id": 2048475397,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-30",
+    "date:cessation_upper": "2026-09-30",
     "date:inception_lower": "2026-09-30",
     "date:inception_upper": "2026-09-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-30",
+    "edtf:cessation": "2026-09-30T01:56:58Z",
+    "edtf:inception": "2026-09-30T01:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-09-30",
@@ -48,6 +50,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158570908"
+    },
     "wof:country": "US",
     "wof:created": 1790870877,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -88,7 +93,7 @@
       1159285591,
       1947304597
     ],
-    "wof:lastmodified": 1790870877,
+    "wof:lastmodified": 1790871577,
     "wof:name": "WN2374 (LAX-SFO)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

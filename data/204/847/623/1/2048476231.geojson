@@ -2,10 +2,12 @@
   "id": 2048476231,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-30",
+    "date:cessation_upper": "2026-09-30",
     "date:inception_lower": "2026-09-30",
     "date:inception_upper": "2026-09-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-30",
+    "edtf:cessation": "2026-09-30T04:27:13Z",
+    "edtf:inception": "2026-09-30T02:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158571843"
+    },
     "wof:country": "US",
     "wof:created": 1790870970,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -94,7 +99,7 @@
       1947304529,
       1159283597
     ],
-    "wof:lastmodified": 1790870970,
+    "wof:lastmodified": 1790871583,
     "wof:name": "UA693 (PHX-SFO)",
     "wof:parent_id": 1947304529,
     "wof:placetype": "custom",

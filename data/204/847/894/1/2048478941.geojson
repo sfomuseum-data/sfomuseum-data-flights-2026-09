@@ -2,10 +2,12 @@
   "id": 2048478941,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-30",
+    "date:cessation_upper": "2026-09-30",
     "date:inception_lower": "2026-09-30",
     "date:inception_upper": "2026-09-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-30",
+    "edtf:cessation": "2026-09-30T03:43:00Z",
+    "edtf:inception": "2026-09-30T02:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158571507"
+    },
     "wof:country": "US",
     "wof:created": 1790871267,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -94,7 +99,7 @@
       1947304285,
       1360700749
     ],
-    "wof:lastmodified": 1790871267,
+    "wof:lastmodified": 1790871597,
     "wof:name": "F94402 (SFO-LAS)",
     "wof:parent_id": 1947304285,
     "wof:placetype": "custom",

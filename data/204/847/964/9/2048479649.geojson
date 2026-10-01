@@ -2,10 +2,12 @@
   "id": 2048479649,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-09-30",
+    "date:cessation_upper": "2026-09-30",
     "date:inception_lower": "2026-09-30",
     "date:inception_upper": "2026-09-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-30",
+    "edtf:cessation": "2026-09-30T03:13:53Z",
+    "edtf:inception": "2026-09-30T02:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-09-30",
@@ -48,6 +50,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158570874"
+    },
     "wof:country": "US",
     "wof:created": 1790871346,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -88,7 +93,7 @@
       1159285591,
       1947304625
     ],
-    "wof:lastmodified": 1790871346,
+    "wof:lastmodified": 1790871605,
     "wof:name": "WN2286 (SFO-SAN)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

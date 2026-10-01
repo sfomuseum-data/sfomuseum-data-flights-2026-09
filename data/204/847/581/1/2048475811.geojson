@@ -2,10 +2,12 @@
   "id": 2048475811,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-10-01",
+    "date:cessation_upper": "2026-10-01",
     "date:inception_lower": "2026-09-30",
     "date:inception_upper": "2026-09-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-09-30",
+    "edtf:cessation": "2026-10-01T02:58:01Z",
+    "edtf:inception": "2026-09-30T22:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "158635994"
+    },
     "wof:country": "US",
     "wof:created": 1790870923,
     "wof:geomhash": "e1d14091bb010ff3febce3dc78c1c8b4",
@@ -94,7 +102,7 @@
       1947304603,
       1159283697
     ],
-    "wof:lastmodified": 1790870923,
+    "wof:lastmodified": 1790871580,
     "wof:name": "UA1769 (RDU-SFO)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",
